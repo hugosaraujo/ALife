@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9a9db87-6311-41da-aa95-f5e97831a2c5" name="Changes" comment="Adição de README ao projeto">
-      <change afterPath="$PROJECT_DIR$/src/alife/models/Person.java" afterDir="false" />
+    <list default="true" id="f9a9db87-6311-41da-aa95-f5e97831a2c5" name="Changes" comment="Criação de classe person para armazenar as informações e cálculos do modelo.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -71,7 +70,10 @@
       <workItem from="1708045055361" duration="51000" />
       <workItem from="1708045157949" duration="1775000" />
       <workItem from="1708047118607" duration="98000" />
-      <workItem from="1709480237005" duration="1836000" />
+      <workItem from="1709480237005" duration="2179000" />
+      <workItem from="1710176891703" duration="72000" />
+      <workItem from="1710177004790" duration="2670000" />
+      <workItem from="1710263346450" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="A aplicação interage com o usuário para calcular a provável data de morte dele.">
       <option name="closed" value="true" />
@@ -89,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708047154968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação de classe person para armazenar as informações e cálculos do modelo.">
+      <option name="closed" value="true" />
+      <created>1709482168198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709482168198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A aplicação interage com o usuário para calcular a provável data de morte dele." />
     <MESSAGE value="Adição de README ao projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição de README ao projeto" />
+    <MESSAGE value="Criação de classe person para armazenar as informações e cálculos do modelo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de classe person para armazenar as informações e cálculos do modelo." />
   </component>
 </project>

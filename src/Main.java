@@ -4,6 +4,18 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        /*
+            1. Melhorias:
+                1.1. aplicação de construtores na classe;
+                1.2. fazer uma análise do que podem ou não ser comportamentos do usuário para
+                dessa maneira alocar melhor na classe ou criar algo especificamente para
+                comportamentos.
+                1.3. gerar um numero aleatório para cada interação com usuário.
+            2. Bug fix:
+                2.1. o programa permite que o usuário preencha dados nulos ou que quebram o
+                programa, implementar algo que venha a prevenir esse comportamento;
+         */
+
 
         Person user = new Person();
         Scanner scan = new Scanner(System.in);
